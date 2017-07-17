@@ -1,2 +1,9 @@
 # nodejs-getstarted
-node.js tutorial step from w3schools.com
+
+Step from https://www.w3schools.com/nodejs/nodejs_intro.asp
+
+Some codes can differ but this follow the tutorial.
+
+RUN : 
+
+VISIT :
